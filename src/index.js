@@ -1,6 +1,6 @@
 // HTML
 export * from './html.js'
-// @brtmvdl/frontend
+// afrontend
 export * from './button.js'
 export * from './label.js'
 export * from './span.js'
