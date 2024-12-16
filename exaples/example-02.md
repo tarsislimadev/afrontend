@@ -6,11 +6,11 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>brtmvdl</title>
+  <title>tarsislimadev</title>
   <script type="importmap">
     {
       "imports": {
-        "@brtmvdl/frontend": "https://cdn.jsdelivr.net/npm/@brtmvdl/frontend@3.0.3/src/index.js"
+        "afrontend": "https://cdn.jsdelivr.net/npm/afrontend@3.0.3/src/index.js"
       }
     }
   </script>
@@ -18,7 +18,7 @@
 <body>
   <div id="app"></div>
   <script type="module">
-    import { HTML } from '@brtmvdl/frontend'
+    import { HTML } from 'afrontend'
     import { Page } from './index.js'
     HTML.fromElement(document.body).setStyle('margin', '0')
     HTML.fromId('app').append(new Page())
@@ -30,7 +30,7 @@
 ```js
 // index.js
 
-import { HTML } from '@brtmvdl/frontend'
+import { HTML } from 'afrontend'
 
 export class Page extends HTML {
   onCreate() {
