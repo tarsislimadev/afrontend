@@ -1,6 +1,6 @@
 # [afrontend](https://www.npmjs.com/package/afrontend)
 
-[![GitHub Workflow Status (with event)](https://img.shields.io/github/actions/workflow/status/tarsislimadev/afrontend/npm-publish.yml?label=npm%20publish&link=https%3A%2F%2Fgithub.com%2Ftarsislimadev%2Ffrontend%2Factions%2Fworkflows%2Fnpm-publish.yml)](https://github.com/tarsislimadev/afrontend/actions/workflows/npm-publish.yml) [![npm](https://img.shields.io/npm/dw/%40tarsislimadev/afrontend?label=npm%20downloads)](https://www.npmjs.com/package/@tarsislimadev/afrontend) [![github/stars](https://img.shields.io/github/stars/tarsislimadev/afrontend?style=social)](https://img.shields.io/github/stars/tarsislimadev/afrontend?style=social) 
+[![npm](https://img.shields.io/npm-stat/dw/tarsislimadev?label=NPM%20Downloads)](https://www.npmjs.com/package/afrontend) [![github/stars](https://img.shields.io/github/stars/afrontend?style=social)](https://img.shields.io/github/stars/afrontend?style=social) 
 
 Easy Front-end Node.js library
 
