@@ -33,7 +33,7 @@ Add a div with id "app" and a <script> module tag before the closing </body>. Th
 </html>
 ```
 
-Import [afrontend from JSDelivr](https://cdn.jsdelivr.net/npm/afrontend@0.0.1/index.js). Add a text in app!
+In `index.js` file, import [afrontend from JSDelivr](https://cdn.jsdelivr.net/npm/afrontend@0.0.1/index.js). Add a text in app!
 
 ```html
 import { HTML } from 'https://cdn.jsdelivr.net/npm/afrontend@0.0.1/index.js'
