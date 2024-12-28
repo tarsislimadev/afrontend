@@ -1,6 +1,6 @@
 # [afrontend](https://www.npmjs.com/package/afrontend)
 
-[![npm](https://img.shields.io/npm-stat/dw/tarsislimadev?label=NPM%20Downloads)](https://www.npmjs.com/package/afrontend) [![github/stars](https://img.shields.io/github/stars/afrontend?style=social)](https://img.shields.io/github/stars/afrontend?style=social) 
+[![npm](https://img.shields.io/npm-stat/dw/tarsislimadev?label=NPM%20Downloads)](https://www.npmjs.com/package/afrontend) [![github/stars](https://img.shields.io/github/stars/tarsislimadev/afrontend?style=social)](https://img.shields.io/github/stars/afrontend?style=social) 
 
 Easy Front-end Node.js library
 
