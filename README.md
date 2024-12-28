@@ -20,7 +20,7 @@ Easy Front-end Node.js library
 
 ## author
 
-[@tarsislimadev](https://www.linkedin.com/in/tarsislimadev/)
+[@tarsislimadev]([https://www.linkedin.com/in/tarsislimadev/](https://www.youtube.com/@tarsislimadev?sub_confirmation=1))
 
 ## license
 
