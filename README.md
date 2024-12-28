@@ -8,6 +8,8 @@ Easy Front-end Node.js library
 
 [Donate](https://link.mercadopago.com.br/brtmvdl) - [Telegram](https://t.me/+KRmg5MlqgMk0MTg5) - [Discord](https://discord.gg/auCmnvV2)
 
+<img src="./images/qrcode.png" alt="afrontend" />
+
 ## how to use
 
 [Docs](./docs/index.md) - Read offical documentation
