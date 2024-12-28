@@ -10,6 +10,8 @@ Easy Front-end Node.js library
 
 ## how to use
 
+[Docs](./docs/index.md) - Read offical documentation
+
 [Example 01](./exaples/example-01.md) - (Simple) Linear Style
 
 [Example 02](./exaples/example-02.md) - Object Oriented Style
