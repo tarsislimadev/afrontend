@@ -10,7 +10,7 @@
   <script type="importmap">
     {
       "imports": {
-        "afrontend": "https://cdn.jsdelivr.net/npm/afrontend@3.0.3/src/index.js"
+        "afrontend": "https://cdn.jsdelivr.net/npm/afrontend@0.0.1/src/index.js"
       }
     }
   </script>
