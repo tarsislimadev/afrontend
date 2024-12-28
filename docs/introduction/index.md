@@ -16,7 +16,7 @@ Create a new `index.html` file in your project root
 </html>
 ```
 
-Place the <script> module tag before the closing </body>, to the `index.js` file.
+Add a div with id "app" and a <script> module tag before the closing </body>. The script tag must refer to the `index.js` file.
 
 ```html
 <!doctype html>
