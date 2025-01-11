@@ -28,6 +28,6 @@ app.append(input)
 
 const button = new nButton()
 button.setText('button')
-button.on('click', () => window.alert(`value: ${input.getValue()}`))
+button.addEventListener('click', () => window.alert(`value: ${input.getValue()}`))
 app.append(button)
 ```
