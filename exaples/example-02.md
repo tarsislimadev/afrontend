@@ -1,4 +1,3 @@
-
 ```html
 <!-- index.html -->
 
@@ -7,13 +6,6 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>tarsislimadev</title>
-  <script type="importmap">
-    {
-      "imports": {
-        "afrontend": "https://cdn.jsdelivr.net/npm/afrontend@0.0.1/src/index.js"
-      }
-    }
-  </script>
 </head>
 <body>
   <div id="app"></div>
@@ -30,7 +22,7 @@
 ```js
 // index.js
 
-import { HTML } from 'afrontend'
+import { HTML } from 'https://tinyurl.com/afrontend'
 
 export class Page extends HTML {
   onCreate() {
