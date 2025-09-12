@@ -16,9 +16,9 @@ Easy Front-end Node.js library
 
 [Youtube](https://www.youtube.com/watch?v=jBcsfbpKXus&list=PLuzbmu7MdRdF1W8eUbDFruK4eYrHdLbzl&index=1) - Watch on Youtube
 
-[Example 01](./exaples/example-01.md) - (Simple) Linear Style
+[Example 01](./examples/example-01.md) - (Simple) Linear Style
 
-[Example 02](./exaples/example-02.md) - Object Oriented Style
+[Example 02](./examples/example-02.md) - Object Oriented Style
 
 ## author
 
